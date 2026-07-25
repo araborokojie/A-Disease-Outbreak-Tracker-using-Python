@@ -86,7 +86,7 @@ Determine Emergency Response
 Assess Situation Stability
         ↓
 Generate Outbreak Report
-'''
+```
 
 ---
 
