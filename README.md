@@ -117,8 +117,8 @@ The first stage involved creating variables to store important disease outbreak 
 Active cases represent patients who have not yet recovered and are not included in the number of recorded deaths.
 This calculation demonstrates the use of arithmetic operators in Python.
 
-![Screenshot](Capture2.PNG)
-![Screenshot](Capture8.PNG)
+![Screenshot](Capture13.PNG)
+![Screenshot](Capture20.PNG)
 
 ---
 
@@ -126,8 +126,8 @@ This calculation demonstrates the use of arithmetic operators in Python.
 
 This calculation provides an overview of the proportion of reported cases that have recovered.
 
-![Screenshot](Capture3.PNG)
-![Screenshot](Capture9.PNG)
+![Screenshot](Capture14.PNG)
+![Screenshot](Capture21.PNG)
 
 ---
 
@@ -136,8 +136,8 @@ This calculation provides an overview of the proportion of reported cases that h
 The += operator allows a value to be added to an existing variable.
 This is useful in outbreak tracking scenarios where new cases are continuously added to the total number of cases.
 
-![Screenshot](Capture3.PNG)
-![Screenshot](Capture9.PNG)
+![Screenshot](Capture15.PNG)
+![Screenshot](Capture22.PNG)
 
 ---
 
@@ -145,8 +145,8 @@ This is useful in outbreak tracking scenarios where new cases are continuously a
 
 The comparison operator > checks whether the available beds are greater than the minimum required capacity.
 
-![Screenshot](Capture3.PNG)
-![Screenshot](Capture9.PNG)
+![Screenshot](Capture16.PNG)
+![Screenshot](Capture23.PNG)
 
 ---
 
@@ -155,8 +155,8 @@ The comparison operator > checks whether the available beds are greater than the
 This subsection uses logical conditions to classify the outbreak based on predefined thresholds for active cases and deaths.
 The or logical operator returns True when at least one of the conditions is satisfied
 
-![Screenshot](Capture3.PNG)
-![Screenshot](Capture9.PNG)
+![Screenshot](Capture17.PNG)
+![Screenshot](Capture24.PNG)
 
 ---
 
@@ -164,8 +164,8 @@ The or logical operator returns True when at least one of the conditions is sati
 
 This subsection demonstrates how multiple Boolean conditions can be combined to determine whether additional emergency action may be required according to the project's rules.
 
-![Screenshot](Capture4.PNG)
-![Screenshot](Capture10.PNG)
+![Screenshot](Capture18.PNG)
+![Screenshot](Capture25.PNG)
 
 ---
 
@@ -174,8 +174,8 @@ This subsection demonstrates how multiple Boolean conditions can be combined to 
 This subsection combines recovery performance and healthcare capacity to produce an overall stability assessment.
 The and operator requires both conditions to be True before the overall result becomes True.
 
-![Screenshot](Capture4.PNG)
-![Screenshot](Capture10.PNG)
+![Screenshot](Capture19.PNG)
+![Screenshot](Capture26.PNG)
 
 ---
 
