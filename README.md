@@ -107,6 +107,9 @@ The first stage involved creating variables to store important disease outbreak 
 - Emergency declaration status
 
 ![Screenshot](Capture1.PNG)
+![Screenshot](Capture2.PNG)
+![Screenshot](Capture7.PNG)
+![Screenshot](Capture8.PNG)
 
 ---
 
@@ -114,7 +117,8 @@ The first stage involved creating variables to store important disease outbreak 
 Active cases represent patients who have not yet recovered and are not included in the number of recorded deaths.
 This calculation demonstrates the use of arithmetic operators in Python.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture2.PNG)
+![Screenshot](Capture8.PNG)
 
 ---
 
@@ -122,7 +126,8 @@ This calculation demonstrates the use of arithmetic operators in Python.
 
 This calculation provides an overview of the proportion of reported cases that have recovered.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture3.PNG)
+![Screenshot](Capture9.PNG)
 
 ---
 
@@ -131,7 +136,8 @@ This calculation provides an overview of the proportion of reported cases that h
 The += operator allows a value to be added to an existing variable.
 This is useful in outbreak tracking scenarios where new cases are continuously added to the total number of cases.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture3.PNG)
+![Screenshot](Capture9.PNG)
 
 ---
 
@@ -139,16 +145,18 @@ This is useful in outbreak tracking scenarios where new cases are continuously a
 
 The comparison operator > checks whether the available beds are greater than the minimum required capacity.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture3.PNG)
+![Screenshot](Capture9.PNG)
 
 ---
 
 ### Determining Whether the Outbreak Is Severe
 
 This subsection uses logical conditions to classify the outbreak based on predefined thresholds for active cases and deaths.
-The or logical operator returns True when at least one of the conditions is satisfied.
+The or logical operator returns True when at least one of the conditions is satisfied
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture3.PNG)
+![Screenshot](Capture9.PNG)
 
 ---
 
@@ -156,7 +164,8 @@ The or logical operator returns True when at least one of the conditions is sati
 
 This subsection demonstrates how multiple Boolean conditions can be combined to determine whether additional emergency action may be required according to the project's rules.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture4.PNG)
+![Screenshot](Capture10.PNG)
 
 ---
 
@@ -165,7 +174,8 @@ This subsection demonstrates how multiple Boolean conditions can be combined to 
 This subsection combines recovery performance and healthcare capacity to produce an overall stability assessment.
 The and operator requires both conditions to be True before the overall result becomes True.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture4.PNG)
+![Screenshot](Capture10.PNG)
 
 ---
 
@@ -173,4 +183,7 @@ The and operator requires both conditions to be True before the overall result b
 
 This subsection brings together the calculations and Boolean assessments to generate a single, readable outbreak summary.
 
-![Creating Disease Outbreak Variables](Capture1.PNG)
+![Screenshot](Capture5.PNG)
+![Screenshot](Capture6.PNG)
+![Screenshot](Capture11.PNG)
+![Screenshot](Capture12.PNG)
