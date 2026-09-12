@@ -1,5 +1,4 @@
 #  Disease Outbreak Tracker
-
 A beginner-friendly Python case study that analyses disease outbreak data and generates a simple outbreak assessment report based on reported cases, recoveries, deaths, hospital capacity, and predefined outbreak conditions.
 
 This project was developed as part of my Python learning journey and demonstrates how basic Python programming concepts can be applied to a real-world public health scenario.
